@@ -12,9 +12,6 @@ pandas==1.3.3
 # Numpy
 numpy==1.21.2
 
-# Pickle5 (for pickle compatibility)
-pickle
-
 # Matplotlib (if you use it for plotting)
 matplotlib==3.4.3
 
