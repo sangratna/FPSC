@@ -17,3 +17,5 @@ matplotlib==3.4.3
 
 # Seaborn (for statistical data visualization)
 seaborn==0.11.2
+
+streamlit_option_menu
